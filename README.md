@@ -5,12 +5,12 @@ Projeto visto no canal da Rafaella Ballerini.
 
 Foram utilizados os conceitos das tags:
 <p>Label</p>
-RadioButton
-Option
-CheckBox
-Button
-Text
-Input
+<p>RadioButton</p>
+<p>Option</p>
+<p>CheckBox</p>
+<p>Button</p>
+<p>Text</p>
+<p>Input</p>
 
 Segue imagem da page.
 
