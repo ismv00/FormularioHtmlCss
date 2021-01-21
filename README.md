@@ -4,7 +4,7 @@ Formulário com html e css.
 Projeto visto no canal da Rafaella Ballerini.
 
 Foram utilizados os conceitos das tags:
-Label
+<p>Label</p>
 RadioButton
 Option
 CheckBox
